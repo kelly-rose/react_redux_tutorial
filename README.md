@@ -40,7 +40,7 @@ frontend:
     1. run `npm install`
     1. run `npm start` to start the webpack dev server
 
-1. Navigate to `localhost:3000` in your browser
+1. Navigate to `localhost:8080` in your browser
 
 
 ES6 is just used to practice ES6...
